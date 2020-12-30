@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`preubas en MultipleCustomHooks Debe de tomarse una foto snapshot 1`] = `
+<div>
+  <h1>
+    Breaking Bad
+  </h1>
+  <hr />
+  <div
+    className="alert"
+  >
+     loading... 
+  </div>
+  <button
+    className="btn btn-primary"
+    onClick={[Function]}
+  >
+    Siguiente quote
+  </button>
+</div>
+`;

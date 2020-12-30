@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <PrimeraApp> Debe mostrar el mensaje Hola, Soy Goku 1`] = `
+<div>
+  <h2>
+    Hola mundo
+  </h2>
+  <h3>
+    Luis
+  </h3>
+  <h3>
+    Hola, soy Goku
+  </h3>
+  <p>
+    Mi primera aplicación con React
+  </p>
+</div>
+`;
